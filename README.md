@@ -44,3 +44,6 @@ Open the notebook in Google Colab or Jupyter Notebook, then run all cells sequen
 Notes
 
 This implementation uses a closed-form solution and does not rely on machine learning libraries such as scikit-learn. The focus of the project is on understanding the mathematical foundations of polynomial regression.
+
+This project is licensed under the MIT License.
+
